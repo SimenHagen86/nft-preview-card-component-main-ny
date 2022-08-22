@@ -29,6 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
+![](./images/Screenshot%202022-08-22%20at%2019-47-17%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
+
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/nftprevviewcardcomponent-MuiHMRS7pI]
