@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- displays site properly based on user's device -->
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | NFT preview card component</title>
+  </head>
+  <body>
+    <main>
+      <div class="card">
+        <a
+          class="card__img"
+          href="./images/image-equilibrium.jpg"
+          target="_blank"
+          ><img
+            src="./images/image-equilibrium.jpg"
+            alt="cube standing on the end with blue and red"
+        /></a>
+        <a class="card__user" href="#">Equilibrium #3429</a>
+        <p class="card__description">
+          Our Equilibrium collection promotes balance and calm.
+        </p>
+        <ul class="card__value">
+          <li class="card__value--price">
+            <img
+              class="card__value--icon"
+              src="./images/icon-ethereum.svg"
+              alt="ethereum"
+            />
+            <p>0.041 ETH</p>
+          </li>
+          <li class="card__value--time">
+            <img
+              class="card__value--icon"
+              src="./images/icon-clock.svg"
+              alt="clock"
+            />
+            <p>3 days left</p>
+          </li>
+        </ul>
+        <hr />
+        <figure>
+          <img
+            class="card__portrait"
+            src="./images/image-avatar.png"
+            alt="Jules Wyvern"
+          />
+          <figcaption class="card__author">
+            Creation of <a href="" class="author__link">Jules Wyvern</a>
+          </figcaption>
+        </figure>
+      </div>
+    </main>
+
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Simen Hagen</a>.
+    </footer>
+  </body>
+</html>
