@@ -100,10 +100,10 @@ figure {
 }
 
 .card__img::before {
+  content: url(/images/icon-view.svg);
   align-items: center;
   background-color: hsla(178, 100%, 50%, 55%);
   border-radius: 1rem;
-  content: url(/images/icon-view.svg);
   display: flex;
   height: 100%;
   justify-content: center;
