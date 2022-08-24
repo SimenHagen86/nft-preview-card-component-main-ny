@@ -73,4 +73,4 @@ watching other people soulutions.attribution
 
 ## Acknowledgments
 
-looked at PhoenixDev22 solution after i read an comment , this made me scrap the first and go over to anchor tags instead
+looked at PhoenixDev22 solution after i read an comment and it was great , this made me scrap the first and go over to anchor tags instead

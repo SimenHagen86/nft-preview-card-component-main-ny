@@ -52,6 +52,7 @@ img {
 
 ul {
   list-style: none;
+  margin-bottom: 1rem;
 }
 
 body {
@@ -72,6 +73,8 @@ figure {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  border-top: 1px solid var(--Very-dark-blue-line);
+  padding-top: 1rem;
 }
 
 /* Card */
